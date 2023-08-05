@@ -1,13 +1,12 @@
-# Novel-reading
-![Picture10](https://github.com/huybui76/Novel-reading/assets/59251361/a1382991-f43e-40e8-9f18-ef95839c9031)
+![Picture3](https://github.com/huybui76/Novel-reading/assets/59251361/4b6fda0f-ee55-4117-88db-d93dee90a382)
+![Uploading Picture2.png…]()
+![Uploading Picture1.png…]()
+![Uploading Picture11.png…]()
+![Uploading Picture10.png…]()
 ![Uploading Picture9.png…]()
 ![Uploading Picture8.png…]()
 ![Uploading Picture7.png…]()
 ![Uploading Picture6.png…]()
+# Novel-reading
 ![Uploading Picture5.png…]()
 ![Uploading Picture4.png…]()
-![Uploading Picture3.png…]()
-![Uploading Picture2.png…]()
-
-![Uploading Picture1.png…]()
-![Uploading Picture11.png…]()
