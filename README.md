@@ -1,6 +1,7 @@
 # Novel-reading
 ![Picture1](https://github.com/huybui76/Novel-reading/assets/59251361/9bbfa9ee-a0d5-4210-882a-3238ff8f9242)
 ![Picture2](https://github.com/huybui76/Novel-reading/assets/59251361/b07213ed-d0b7-4c2b-80e4-b5b3e3a3b53c)
+
 ![Picture3](https://github.com/huybui76/Novel-reading/assets/59251361/8e32d38a-a03e-41bf-ae5c-29845148262e)
 ![Picture4](https://github.com/huybui76/Novel-reading/assets/59251361/eb66fdf8-3e80-4be2-8a62-33b65de3061f)
 ![Picture5](https://github.com/huybui76/Novel-reading/assets/59251361/6b819b13-b411-4d2d-903c-6c2a1853b523)
